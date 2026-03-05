@@ -9,6 +9,10 @@ public class City {
         this.province = province;
     }
 
+    /**
+     * Gets the city name.
+     * @return city name
+     */
     public String getCityName(){
         return this.city;
     }
